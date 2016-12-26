@@ -10,8 +10,12 @@
 
 ```
 $('#ul li').each(function(){
-    $(this).dragsort(); 
+    $(this).dragsort(); //水平方向
 });
+$('#ul li').each(function(){
+    $(this).dragsort({vi:1}); //垂直方向
+});
+
 ```
 
 ## Questions?
