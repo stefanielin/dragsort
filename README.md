@@ -1,7 +1,3 @@
-# dragsort
-拖动排序组件
-
-
 
 # dragsort
 > A mini-plug of jQuery for drag sort.
